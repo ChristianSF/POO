@@ -1,19 +1,17 @@
 package Exercicios;
 
-import java.io.FileNotFoundException;
-
-public class Ex2 extends Exception{
-
+public class Excecao extends Exception{
+    
     private String mensagem;
     
-    public Ex2(String msg) {
+    public Excecao(String msg) {
         super();
         this.mensagem = msg;
     }
     
     public void ImprimeString() {
         try{
-            throw new Ex2("Houve um erro");
+            throw new Excecao("Houve um erro");
         }
         
         catch(Throwable erro) {
