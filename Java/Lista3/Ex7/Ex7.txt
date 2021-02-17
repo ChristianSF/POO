@@ -1,0 +1,12 @@
+1- imprimeAlgo(0): printa " * ";
+2- imprimeAlgo(1): printa " [*,*];
+3- imprimeAlgo(2): printa: " [[*,*]
+			,[*,*]
+			]"; 
+4- imprimeAlgo(3): printa: "[[[*,*]
+			,[*,*]
+			]
+			,[[*,*]
+			,[*,*]
+			]
+			]".

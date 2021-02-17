@@ -1,0 +1,5 @@
+A saída é uma matriz, que terá: 
+
+1- " * " quando a linha e a coluna forem iguais;
+2- " * " quando j for 0 ou 5;
+3- " . " nos demais casos.
