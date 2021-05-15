@@ -22,7 +22,7 @@ public class Veiculo {
     }
 
     public void setCpf_motorista(String cpf_motorista) {
-        System.out.println("A");
+        this.cpf_motorista = cpf_motorista;
     }
 
     public void setTipo(String tipo) {
